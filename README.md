@@ -45,3 +45,9 @@ I Create my first project files (in VS Code).
 I use the git add / commit / push to GitHub and verify that the README.md and requirements.txt files appear in my GitHub repository, datafun-05-sql.
 
 ## CC5.2: Use SQL with Python
+
+1. I esure CC5.1 steps are complete
+2. Activate a local virtual environment in .venv.
+   .venv\Scripts\activate
+4. 
+
