@@ -46,8 +46,11 @@ I use the git add / commit / push to GitHub and verify that the README.md and re
 
 ## CC5.2: Use SQL with Python
 
-1. I esure CC5.1 steps are complete
-2. Activate a local virtual environment in .venv.
-   .venv\Scripts\activate
-4. 
-
+## 1. I esure CC5.1 steps are complete
+## 2. I Activate a local virtual environment in .venv.
+.venv\Scripts\activate
+## 3. 'pip install pandas"
+'pip install pandas'
+## 4. Run pip freeze and redirect the results (>) into requirements.txt
+'pip freeze > requirements.txt'
+## 5. Checked .gitignore to ensure that .venv will not be pushed to GitHub
