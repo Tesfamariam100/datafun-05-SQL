@@ -1,10 +1,10 @@
 # datafun-05-sql
 
-## Project Setup Process
-
 ## Project Overview
 
-This project aims to set up a development environment and repository for my DataFun 05 SQL project.
+Project 5 blends Python and SQL, emphasizing SQLite database interactions. It introduces logging for debugging and monitoring and involves creating databases, building schemas, and executing various SQL operations.
+
+## CC5.1 Start a new Project (Setup Process)
 
 ### 1. Create a GitHub project repository with a default README.md.
 
@@ -44,3 +44,4 @@ I Create my first project files (in VS Code).
 
 I use the git add / commit / push to GitHub and verify that the README.md and requirements.txt files appear in my GitHub repository, datafun-05-sql.
 
+## CC5.2: Use SQL with Python
