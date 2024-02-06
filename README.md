@@ -54,3 +54,14 @@ I use the git add / commit / push to GitHub and verify that the README.md and re
 ## 4. Run pip freeze and redirect the results (>) into requirements.txt
 'pip freeze > requirements.txt'
 ## 5. Checked .gitignore to ensure that .venv will not be pushed to GitHub
+
+## CC5.3 Plan the project/ Gather data
+## 1. create new data folder in the project repository folder
+## 2. create two data csv files with the given data
+
+## CC5.4 initialize the database
+## 1. create new sql folder in the project repository folder
+## 2. create python file, name it "book_manajer.py" in VS code in the root repositoty folder with the following code:
+
+
+
